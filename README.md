@@ -483,5 +483,5 @@ while game_rennung:
 
     pygame.display.flip()
 
-pygame.quit()
+pygame.quit() 
 sys.exit(0)
